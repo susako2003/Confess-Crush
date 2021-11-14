@@ -6,10 +6,10 @@ const CONFIG = {
     Biển chỉ đẹp khi hoàng hôn buông xuống
     Tình chỉ đẹp khi em và chị yêu nhau :3`,
     btnIntro: '^^HiHi^^',
-    title: 'Đó có phải là yêu hay không tại sao mà em lại tin hoài 🥰',
-    desc: 'Đó có phải là yêu hay không tại sao làm tim em ngây dại  ',
+    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
+    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
+    btnNo: 'Không nha :((',
     question: 'Chị làm người yêu em nha <3',
     btnReply: 'Gửi cho bạn <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
